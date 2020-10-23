@@ -1,4 +1,5 @@
 class Main {
+
     public static void main(String[] args) {
     
     zahlenfilter();
@@ -19,6 +20,7 @@ class Main {
       System.out.println(i + ":" + " ZAHL und VORGÄNGER addiert ergeben ERGEBNIS und ERGEBNIS ist durch 3 teilbar");
     }
   }
- }
+    }
 }
+
   
